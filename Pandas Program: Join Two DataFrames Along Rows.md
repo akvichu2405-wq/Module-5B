@@ -37,4 +37,4 @@ print(mer)
 <img width="834" height="564" alt="image" src="https://github.com/user-attachments/assets/aa4df64d-8a59-4c31-a186-15fa8c92063b" />
 
 ## Result
-<img width="834" height="564" alt="image" src="https://github.com/user-attachments/assets/d47ad206-21d7-4d48-bb27-1a5902c7a546" />
+Thus the given program is verified and executed sucessfully.
